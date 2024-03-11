@@ -27,7 +27,7 @@ public class main {
     public static void main(String[] args) throws IOException {
         Scanner s = new Scanner(System.in);
         BufferedWriter b1 = new BufferedWriter(new FileWriter("C:\\Users\\franr\\Desktop\\rutafichero.txt"));
-        BufferedWriter b2 = new BufferedWriter(new FileWriter("C:El\\Users\\franr\\Desktop\\mayusculas.txt"));
+        BufferedWriter b2 = new BufferedWriter(new FileWriter("C:\\Users\\franr\\Desktop\\mayusculas.txt"));
 
         
         System.out.println("Escriba el texto que quieras escribir en el fichero");
